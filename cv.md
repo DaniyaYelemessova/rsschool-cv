@@ -1,8 +1,8 @@
 # Daniya Collings
-===
+
 
 ## Front-End Developer
-====
+
 
 ### Contact information:
 + Phone: +1 (720)688-7731
@@ -22,4 +22,13 @@ for (let i = 0; i < 5; i++) {
   text += "The number is " + i + "<br>";
 }
 ```
+
+### Education
++ Courses:
+- CanSheCode inc.
+- Epicodus bootcamp
+
+### Languages
+ + Russian - native speaker
+ + English - C1(Fluent)
 

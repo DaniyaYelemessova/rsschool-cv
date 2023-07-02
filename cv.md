@@ -24,7 +24,6 @@ for (let i = 0; i < 5; i++) {
 ```
 
 ### Education
-+ Courses:
 - CanSheCode inc.
 - Epicodus bootcamp
 
